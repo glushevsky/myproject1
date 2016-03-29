@@ -1,0 +1,8 @@
+﻿<?xml version="1.0"?>
+<Parameter>
+  <Id>123</Id>
+  <Name>TestName</Name>
+  <Description>This is blah-blah-blah</Description>
+  <Type>System.String</Type>
+  <Value>31fg1е53еb</Value>
+</Parameter>
