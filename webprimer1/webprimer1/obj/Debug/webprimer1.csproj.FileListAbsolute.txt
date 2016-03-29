@@ -1,0 +1,8 @@
+C:\Users\Admin\documents\visual studio 2010\Projects\webprimer1\webprimer1\bin\webprimer1.dll
+C:\Users\Admin\documents\visual studio 2010\Projects\webprimer1\webprimer1\bin\webprimer1.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\webprimer1\webprimer1\obj\Debug\webprimer1.dll
+C:\Users\Admin\documents\visual studio 2010\Projects\webprimer1\webprimer1\obj\Debug\webprimer1.pdb
+C:\Users\Admin\Desktop\webprimer1\webprimer1\bin\webprimer1.dll
+C:\Users\Admin\Desktop\webprimer1\webprimer1\bin\webprimer1.pdb
+C:\Users\Admin\Desktop\webprimer1\webprimer1\obj\Debug\webprimer1.dll
+C:\Users\Admin\Desktop\webprimer1\webprimer1\obj\Debug\webprimer1.pdb
